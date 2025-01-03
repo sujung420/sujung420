@@ -1,7 +1,7 @@
 ## Hi! I'm Sujung👋
 
 A Back-End Developer growing one by one :)
-<br>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Sujung%20GitHub!&fontSize=40)
 
 
