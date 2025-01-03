@@ -15,7 +15,6 @@ A Back-End Developer growing one by one :)
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
    <img src="https://img.shields.io/badge/PosgreSQL-4169E1?style=flat&logo=PosgreSQL&logoColor=white" />
-   <br>
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
