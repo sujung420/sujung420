@@ -2,7 +2,7 @@
 
 A Back-End Developer growing one by one :)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Sujung GitHub!&%20render&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Sujung%20GitHub!&fontSize=30)
 
 
 <!--
