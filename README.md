@@ -3,7 +3,6 @@
 A Back-End Developer growing one by one :)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sujung%20GitHub!&fontSize=40)
-
 ### 📚Tech Stack📚
 ##### - BackEnd
 <div>
@@ -26,7 +25,5 @@ A Back-End Developer growing one by one :)
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 </div>
-
-------------
 
 ### 🛠️ IDE & Tools 🛠️
