@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I'm Sujung👋
+
+A Back-End Developer growing one by one
+
 
 <!--
 **sujung420/sujung420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
