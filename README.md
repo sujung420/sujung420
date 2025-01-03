@@ -2,19 +2,7 @@
 
 A Back-End Developer growing one by one :)
 
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sujung%20GitHub!&fontSize=40)
-
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f9dddd&height=180&text=&animation=&fontColor=000000&fontSize=70" />
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> </div>
-    </div>-->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f9dddd&height=180&text=Sujung Github&animation=&fontColor=000000&fontSize=70" />
-    
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9dddd&height=200&fontColor=000000&section=header&text=Sujung%20GitHub!&fontSize=40)
 
 ### 📚Tech Stack📚
 ##### - BackEnd
