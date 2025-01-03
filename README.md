@@ -2,7 +2,7 @@
 
 A Back-End Developer growing one by one :)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9dddd&height=200&section=header&text=Sujung%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9dddd&height=100&section=header&text=Sujung%20GitHub&fontSize=30)
 
 ### 📚Tech Stack📚
 ##### - BackEnd
