@@ -1,6 +1,6 @@
 ## Hi! I'm Sujung👋
 
-A Back-End Developer growing one by one :)
+A Back-End Developer growing one by one!👩‍💻
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f9dddd&height=200&section=header&text=Sujung%20GitHub&fontSize=40)
 
