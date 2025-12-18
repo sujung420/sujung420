@@ -1,4 +1,4 @@
-## Hi! I'm Sujung👋
+## Hi! I'm Su Jeong👋
 
 A Back-End Developer growing one by one!👩‍💻
 
